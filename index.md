@@ -5,7 +5,7 @@ group: home
 ---
 
 # Welcome to the Kasahara Lab!
-{: .display-3}
+{: .display-5}
 <br>
 We are part of the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/), the [Macromolecular Structure Group](http://msg.ucsf.edu/), and the [California Institute of Quantitative Biosciences (QB3)](http://qb3.org/). 
 {: .welcomefont}
