@@ -5,7 +5,7 @@ group: home
 ---
 
 # Welcome to the Kasahara Lab!
-{: .display-4}
+{: .display-3}
 <br>
 We are part of the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/), the [Macromolecular Structure Group](http://msg.ucsf.edu/), and the [California Institute of Quantitative Biosciences (QB3)](http://qb3.org/). 
 {: .welcomefont}
@@ -15,3 +15,4 @@ Research in the lab is focused on discovering the fundamental principles of macr
 
 We are located in Genentech Hall at the Mission Bay Campus of UCSF.
 {: .welcomefont}
+
