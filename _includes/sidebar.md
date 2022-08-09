@@ -3,18 +3,14 @@ title: Contact
 ---
 
 
-### Contact the Fraser Lab
+### Contact the Kasahara Lab
 
-James Fraser, Ph.D.
-Professor
-Department of Bioengineering and Therapeutic Sciences
-California Institute of Quantitative Biosciences (QB3)
+Kazuyuki Kasahara, M.D., Ph.D.
+Assistant Professor of Metabolic, Nutrition, Microbiome Medicine
+Lee Kong Chian School of Medicine
+Nanyang Technological University - Imperial College London 
 
-email: jfraser (#!) fraserlab.com
-tel: 415 493 842 one
-fax: 415 514 016 nine
+email: kazuyuki.kasahara@ntu.edu.sg
 
-Genentech Hall Room S472E (Office), S476 (Lab)
-UCSF Mail Code 2240
-600 16th Street
-San Francisco, CA 94158
+Novena Campus, Clinical Sciences Building Level 10
+11 Mandalay Road, Singapore 308232
