@@ -7,7 +7,7 @@ group: home
 # Welcome to the Kasahara Lab!
 {: .display-5}
 <br>
-We are part of the [Nutrition, Metabolism and Health Programme](https://www.ntu.edu.sg/medicine/research/research-programmes/nutrition-metabolism-health), the [Microbiome Medicine Programme](https://www.ntu.edu.sg/medicine/research/research-programmes/microbiome-medicine) at the [Lee Kong Chian School of Medicine](https://www.ntu.edu.sg/medicine), [Nanyang Technological University](https://www.ntu.edu.sg). 
+We are part of the [Nutrition, Metabolism and Health Programme](https://www.ntu.edu.sg/medicine/research/research-programmes/nutrition-metabolism-health) and the [Microbiome Medicine Programme](https://www.ntu.edu.sg/medicine/research/research-programmes/microbiome-medicine) at the [Lee Kong Chian School of Medicine](https://www.ntu.edu.sg/medicine), [Nanyang Technological University](https://www.ntu.edu.sg). 
 {: .welcomefont}
 
 Research in the lab is focused on discovering novel diet-microbiome-host interactions that affect cardiometabolic diseases.  We are interested in designing gut microbiota-targeted interventions for prevention and treatment of non-communicable diseases.
