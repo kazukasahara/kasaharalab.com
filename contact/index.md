@@ -42,12 +42,12 @@ Singapore, 308232
 
 ### The Clinical Science Building at Novena campus can be reached:  
 * #### by MRT:
-  * 1. Alight at Novena MRT (NS20), proceed to Exit A and follow directional sign to Tan Tock Seng Hospital (TTSH). 
-  * 2. Walk on to street level towards Jalan Tan Tock Seng.
-  * 3. Turn right at Jalan Tan Tock Seng and follow directional signs to Novena Campus.
+  * i) Alight at Novena MRT (NS20), proceed to Exit A and follow directional sign to Tan Tock Seng Hospital (TTSH). 
+  * ii) Walk on to street level towards Jalan Tan Tock Seng.
+  * iii) Turn right at Jalan Tan Tock Seng and follow directional signs to Novena Campus.
 * #### by Car:
-  * 1. Drive to Moulmein Road and make a turn into Jalan Tan Tock Seng.
-  * 2. Turn right before the traffic light at Foot Care & Limb Centre and drive into LKCMedicine HQ Open Carpark.
+  * i) Drive to Moulmein Road and make a turn into Jalan Tan Tock Seng.
+  * ii) Turn right before the traffic light at Foot Care & Limb Centre and drive into LKCMedicine HQ Open Carpark.
 
 
 <img class="img-fluid" src="/static/img/CSB_map.png" alt="Map of Clinical Science Building">
