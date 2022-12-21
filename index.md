@@ -7,12 +7,12 @@ group: home
 # Welcome to the Kasahara Lab!
 {: .display-5}
 <br>
-We are part of the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/), the [Macromolecular Structure Group](http://msg.ucsf.edu/), and the [California Institute of Quantitative Biosciences (QB3)](http://qb3.org/). 
+We are part of the [Nutrition, Metabolism and Health Programme](https://www.ntu.edu.sg/medicine/research/research-programmes/nutrition-metabolism-health), the [Microbiome Medicine Programme](https://www.ntu.edu.sg/medicine/research/research-programmes/microbiome-medicine) at the [Lee Kong Chian School of Medicine](https://www.ntu.edu.sg/medicine), [Nanyang Technological University](https://www.ntu.edu.sg). 
 {: .welcomefont}
 
-Research in the lab is focused on discovering the fundamental principles of macromolecular structure and dynamics.  We are interested in defining conformational states that are essential for function and understanding how conformational transitions couple to biological mechanisms.
+Research in the lab is focused on discovering novel diet-microbiome-host interactions that affect cardiometabolic diseases.  We are interested in designing gut microbiota-targeted interventions for prevention and treatment of non-communicable diseases.
 {: .welcomefont}
 
-We are located in Genentech Hall at the Mission Bay Campus of UCSF.
+We are located in CSB (Clinical Science Building) at the Novena Campus of LKCMedicine, NTU (Nanyang Technological University), Singapore.
 {: .welcomefont}
 
