@@ -31,5 +31,5 @@ In January 2013, he was appointed as an Assistant Professor in the [Department o
 We maintain a deep connection with [Beamline 8.3.1.](http://bl831.als.lbl.gov/~mcfuser/), directed by [James Holton](http://bl831.als.lbl.gov/~jamesh/), at the [Advanced Light Source](http://www-als.lbl.gov/). James is also a Faculty Scientist in the Molecular Biophysics and Integrated Bioimaging Division of Lawrence Berkeley National Lab. James is the Associate Director of the [Biophysics Graduate Program](https://biophysics.ucsf.edu/).
 
 
-His full conflicts of interest are available [here](/coi).
+His full conflicts of interest are available [here](/coi)."
 ---
