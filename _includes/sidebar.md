@@ -8,9 +8,9 @@ title: Contact
 Kazuyuki Kasahara, M.D., Ph.D.
 Assistant Professor of Metabolic, Nutrition, Microbiome Medicine
 Lee Kong Chian School of Medicine
-Nanyang Technological University - Imperial College London 
+Nanyang Technological University 
 
-email: kazuyuki.kasahara@ntu.edu.sg
+email: kazuyuki.kasahara (at) ntu.edu.sg
 
 Novena Campus, Clinical Sciences Building Level 10
 11 Mandalay Road, Singapore 308232
