@@ -41,7 +41,7 @@ Singapore, 308232
 
 
 ### The Clinical Science Building at Novena campus can be reached:  
-* #### by MRT
+* #### by MRT:
   * 1. Alight at Novena MRT (NS20), proceed to Exit A and follow directional sign to Tan Tock Seng Hospital (TTSH). 
   * 2. Walk on to street level towards Jalan Tan Tock Seng.
   * 3. Turn right at Jalan Tan Tock Seng and follow directional signs to Novena Campus.

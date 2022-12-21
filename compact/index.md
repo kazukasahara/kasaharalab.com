@@ -1,5 +1,5 @@
 ---
-title: Fraser Lab Compact and Philosophy
+title: Kasahara Lab Compact and Philosophy
 layout: default
 group: compact
 ---
@@ -9,7 +9,7 @@ group: compact
 # Lab Compact and Philosophy
 <br/>
 
-## Fraser Lab Mission
+## Kasahara Lab Mission
 We want to produce high quality research in an uncompromising and highly transparent manner.  We strive to work on unique problems using rigorous methods and like to disseminate our work as it occurs and have a strong focus on publishing preprints in addition to the traditional peer review process. Our software and scripts are open access on [github](https://github.com/fraser-lab), and we continuously amend our policies to make our data and methods more accessible to the community.  We strive to be anti-secrecy in all things, and try to forge new lines of work that don’t compete with other labs.
 
 Proteins are not static structures, and our scientific mission is to bridge the interface between statistical mechanics and biology to characterize protein structures as sets of conformational ensembles. Further, we push the boundaries of how we think about this structural framework to understand how physical, chemical, and genetic perturbations can shift the relative balance of those conformations. Through this mapping of stimuli to sets of structures we gain valuable insight into a variety of biological processes that can be applied to mutational design or small molecule discovery.
@@ -19,16 +19,9 @@ Proteins are not static structures, and our scientific mission is to bridge the 
 ## Core Lab Values
 Our motto is “Beer and Tacos”.  While our lab culture is not alcohol focused, it represents our mentality. The phrase was first coined by Dayn Perry regarding baseball scouting. You can find the full origin story [here](/2016/03/16/BeerAndTacos/), but in short “Beer and Tacos” is about finding synergy between 2 or more things especially in cases where they are presented in opposition. For example, we like to publish preprints AND recognize the value of review-coordination and visibility that traditional journals provide while there are labs out there that staunchly choose a side. Similarly, two groups can ponder over whether to go out for a beer or to go out for tacos, but they don’t have to be mutually exclusive. Why fight? Beer and tacos can be enjoyed together. Certainly in the current state of science both routes of publication have their place. We should all be empowered to talk about our work at all times. We work on unique problems and disseminate quickly using preprints as a strategy to avoid the dreaded “scoop” without compromising our research or our ideals. “Beer AND Tacos”. CryoEM or crystallography for protein structure? Both!  “Beer AND Tacos”. We find ways to make things work so we get the best of multiple worlds. Or in the words of Dayn Perry, “Why construct an either-or scenario where none need exist?”
 
-![Beer and Tacos Acrostic](/static/img/compact/beertacos_acrostic.png "Beer and Tacos Acrostic!"){: .img-fluid .w-75 p-3 .mx-auto .d-block}
-
 We’ve used our motto to frame what we value. The lab represents a diverse group of students and professionals with respect to race/ethnicity, gender identity, sexuality, nationality, religion, political affiliation, caregiver and family commitments, and beyond.  We strive to create a welcoming environment for all people, including underrepresented groups. As an advisor, I have the bias of my background, and other people have the bias of their background. I try to understand where you're coming from, along with where I'm coming from, and that shapes how we can work together.
 
 These values are ideals and we're all growing towards embodying them. I want people to call me out when I'm not living up to them, and I will call people out when I think they're not living up to them. We are imperfect and trying to grow and be better together.
-<br/>
-<br/>
-
-## Land Acknowledgment Statement
-The Fraser lab recognizes that the University of California San Francisco sits on the unceded land of the Ramaytush Ohlone (pronounced Rah-mah-tush O-lone-ee) peoples, the original inhabitants of the San Francisco Peninsula. As settlers on this land, we want to recognize the historic, and ongoing, discrimination and violence inflicted upon Indigenous people in North America. Please read our full statement [here](/land).
 <br/>
 <br/>
 
@@ -41,13 +34,6 @@ A comprehensive collection of resources for all of the topics listed in this com
 Publishing preprints and sharing results openly is the key to 21st century science communication. The real end goal of any research is to get the work out there, and I find myself most invested in the final push to posting and preprint than any other subsequent part of the process. We maintain our high scientific standards by publishing preprints of high quality research when it’s ready. The peer-review process of traditional journals can delay important results by months and is often plagued with politics that are harmful to the scientific process as a whole. However, the reality is traditional publishing still provides the highest visibility for work and coordinates qualified reviewers, and so for now, the traditional route can not yet be abandoned. Our current approach involves disseminating our results via preprints and is followed by publishing in traditional journals. See “Beer AND Tacos” above. We currently do both because it gets us where we need to be, but we are full proponents of a modern world of publishing that encompasses transparency, speed, fairness, peer-review, and visibility. This is evolving, and as a group we want to lead by example and be on the vanguard of that change.
 
 I like to take an active role in the preparation of all our manuscripts, and I have protocols to facilitate this. A Twitter feed I follow, [@drugmonkeyblog](https://twitter.com/drugmonkeyblog), voiced the issue of how students are often afraid to show PIs anything other than finished work. I expect a draft to be very rough and a starting point to grow from. Regarding authorship, I believe that conversations about positions in author order should occur early in a project, and I err on having more authors on a paper than less.  Everyone with a meaningful contribution should be included.
-<br/>
-<br/>
-
-## Conflicts of Interest
-As an advisor, there are often conflicts of interest between what's best for me and the lab and what’s best for my lab members and their careers. There is opposition between wanting to keep the talent you’ve fostered and helping people to move on with their careers. I am constantly trying to prioritize the aspirations of people. In the end, if I am aligned with people's long-term goals, most things fall into place.
-
-We occasionally also do sponsored research in the lab and I consult for companies to the extent my primary responsibilities allow. These activities can create potential financial [conflicts of interest](/coi). I’m as transparent as possible about this work and relationships while honoring confidentiality agreements. If these financial conflicts cause an issue with the work or working relationship between me and a lab member, I want people to feel like they can have those conversations with me early, and I am happy to talk about it. My department chair would be a good person to talk to if you don't feel comfortable talking to me about it directly.
 <br/>
 <br/>
 
@@ -68,12 +54,6 @@ As people's career preferences evolve over time, I expect people to be engaged i
 <br/>
 <br/>
 
-## Feedback
-We're all growing, we're all trying to live up to our core values, and essential to this is an emphasis on feedback. I am always open to feedback on how the lab and I can function better as long as it is respectful. I recognize that I can be defensive when facing criticism when I'm not watching myself, and I always try to fight against that. Because of this, when possible, I like to have a lot of structure with evaluation as it provides the time to digest it. We have surveys a couple times a year to give lab members an opportunity to voice how they think things are going. In the winter, we have an anonymous lab survey and have a group discussion. In the summer there is another personally-centered survey that is followed by a one-on-one meeting.  Outside of these surveys, you can always come to me privately or otherwise.
-
-I recognize that I don't always give people the same opportunity of time on feedback I give them. I view it as part of my job to give people critical feedback, and I've learned to assess how people like to receive it. Some people need time to cool off after a presentation; some people want it written down; some people like to meet about it. I’m constantly learning how to give feedback to different people, and so my way of giving feedback to a person changes over time.  Figuring out how to give people effective feedback is iterative and can be a long process, but I’m always trying to improve it.
-<br/>
-<br/>
 
 ## Well-Being
 I like to believe people are pretty good about self-regulating, but I recognize people are able to disguise that they are dealing with more than I can see. Bottom line, your primary concern should always be your physical and mental health. If you ever feel unwell, it's best to stop what you’re doing (safely) and address the issue. Don’t put off or sacrifice your health and well-being to get in one last experiment.
@@ -102,33 +82,5 @@ In addition, the lab and myself are available through a very active Slack channe
 <br/>
 <br/>
 
-## Literature  
-As a scientist, it should be a pleasure to keep up with current literature. You should dedicate a few hours each week to scanning and reading new papers. A [blog post](/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature/) on our website  describes a good method of how to keep on top of literature. As a part of weekly group meetings we have a mini journal club where we share interesting papers we’ve read. We also post these papers to twitter with #fljcnlt and to a slack channel with the same name. Additionally, we have journal clubs jointly with other labs several times a year to encourage in depth conversations about current papers and methods.
-<br/>
-<br/>
-
-## Collaboration
-##### Internal-
-In addition to myself, all of your lab members are a resource. It is expected that you will develop collegial relationships within the lab and occasionally work on shared projects. The spirit between lab members should be of cooperation and not adversarial competition. To that end, we try not to reinvent the wheel and make efficient use of everyone’s time by sharing our knowledge. Protocols are updated and shared in Benchling for everyone in the lab to use and several guides exist on the internal lab site for nearly every task, administrative or scientific, that anyone may need. We are all here to help each other, but also be mindful and respectful of your fellow lab members' time. If someone in the lab has helped you a lot on a project they probably should be included as an author on your publications.
-##### External-
-The diverse nature of work in the lab encourages a lot of collaboration with partner labs both within UCSF, at other universities, and in industry. Lab members are expected to foster relationships with our collaborators inline with our values of transparency and cooperativity. In other environments collaborations have been tricky for some people. However, our collaborations have been very positive, and I try to do my part to ensure that continues to be the case. Lab members can expect me to be actively involved in both the details of the project as well as communication with the partner labs. I will have my lab members’ backs and manage difficult conversations such as authorship. I also feel an important factor to fruitful partnership is to all actually be in the same place from time to time and so I encourage travel for scientific collaborations. I’m happy to provide funding to facilitate these visits and meetings.
-<br/>
-<br/>
-
-## Grant Writing/Funding  
-For all science career paths, being able to explain yourself and the value of your work is an invaluable skill. Funding our research is vital to keeping the lab running and grant/proposal writing is the responsibility of the entire lab. My lab members and I collaborate together to write grants and proposals to fund themselves, to fund lab research and equipment, and to request use of scientific facilities outside of UCSF.  There are resources on the internal website to assist with this.
-<br/>
-<br/>
-
-## Conferences and Travel
-Talk about your work openly. Share early. A key component to information transparency is getting it out there. People should present their work at conferences as they are great ways to communicate our results and get other people excited about our work. Conferences are important to build your network as well as your science communication skills. I think everyone should attend 1-2 conferences a year. I encourage people to charge lab-related travel expenses to the lab. Your time is valuable; consider this when booking flights and ground transportation.
-<br/>
-<br/>
 
 ---
-This development of this compact was guided by similar compacts and philosophies of several labs, see links.  
-[Matreyek Lab, Case Western Reserve University](http://www.matreyeklab.com/6-lab-philosophy/)  
-[Syed Lab, University of Minnesota](https://docs.google.com/document/d/1wa067HF3iBv5M0_ao6M1GzPg4mUof_PoVlEAKyIn8Xk/edit)  
-[Heemstra Lab, Emory University](https://docs.google.com/document/d/1a8ecjUWVbXR1JqgbzqRwKmqaNK2cvBsysNFVXk56Lpo/edit)  
-[Mentoring resources, University of Wisconsin-Madison ICTR](https://ictr.wisc.edu/mentoring/mentors-alignment-phase-resources/)  
-[Moghe Lab, Cornell](https://www.moghelab.org/lab-philosophy)  
