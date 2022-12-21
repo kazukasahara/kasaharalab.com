@@ -1,21 +1,19 @@
 ---
-name: James Fraser, Ph.D.
+name: Kazuyuki Kasahara, M.D., Ph.D.
 startdate: YYYY-MM-DD
 enddate: YYYY-MM-DD
-image: /static/img/members/Fraser.jpg
-# altimage: /static/img/members/Fraser_pb.jpg
+image: /static/img/members/Avatar.png
 position: Principal Investigator
 #current:
 pronouns: he/him/his
-email: jfraser (at) fraserlab.com
-scholar: j3iaoR8AAAAJ
+email: kazuyuki.kasahara (at) ntu.edu.sg
+scholar: 4BdMNOIAAAAJ
 website:
-UCSF: james.fraser
-twitter: fraser_lab
+twitter: Kazu_Kasahara
 linkedin: jamesSfraser
 github: fraserlab
 orcid: 0000-0002-5080-2859
-description: "James was an undergraduate at McGill University, where he worked in the lab of Francois Fagotto on [Xenopus developmental biology](/publications#20974811).
+description: "Kazu was an undergraduate at McGill University, where he worked in the lab of Francois Fagotto on [Xenopus developmental biology](/publications#20974811).
 During the summers, he returned to his hometown of Toronto and worked in [Alan Davidson's lab](http://individual.utoronto.ca/Davidsonlab/) on TetR repressor biophysics and [bacteriophage genomics](/publications#16631788).
 
 
@@ -33,7 +31,5 @@ In January 2013, he was appointed as an Assistant Professor in the [Department o
 We maintain a deep connection with [Beamline 8.3.1.](http://bl831.als.lbl.gov/~mcfuser/), directed by [James Holton](http://bl831.als.lbl.gov/~jamesh/), at the [Advanced Light Source](http://www-als.lbl.gov/). James is also a Faculty Scientist in the Molecular Biophysics and Integrated Bioimaging Division of Lawrence Berkeley National Lab. James is the Associate Director of the [Biophysics Graduate Program](https://biophysics.ucsf.edu/).
 
 
-In addition to all the exciting developments in the lab, James is on the board of [ASAPbio](http://asapbio.org) and has a long standing interest in [teaching](/courses) computational biology, [baseball statistics](http://ibiomagazine.org/issues/november-2011-issue/james-fraser-a-michael-eisen.html), and project-based courses. The lab is committed to publishing our code, disseminating our datasets, and posting manuscripts on preprint servers.
-
-His full conflicts of interest are available [here](/coi)."
+His full conflicts of interest are available [here](/coi).
 ---
