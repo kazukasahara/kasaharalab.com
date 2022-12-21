@@ -1,21 +1,19 @@
 ---
-name: Benjamin Barad, Ph.D.
-startdate: 2014-09-01
-enddate: 2019-07-29
+name: Xxxx Xxxx, Ph.D.
+startdate: 20xx-xx-xx
+enddate: 20xx-xx-xx
 image: /static/img/members/barad.jpg
 altimage: /static/img/members/barad_pb.jpg
-position: Graduate Student, Biophysics (Discovery Fellow, ARCS Scholar)
-subsequent: Postdoctoral Fellow - Grotjahn Lab @ Scripps
+position: xxxx
+subsequent: Postdoctoral Fellow - xxxx Lab @ xxxx
 pronouns: he/him/his
-email: benjamin.barad (at) gmail.com
-scholar: XDH9FrwAAAAJ
+email: xxxx (at) gmail.com
+scholar: xxxx
 website: "http://benjaminbarad.com"
 UCSF:
-twitter: benjaminbarad
-linkedin: bbarad
-github: bbarad
-orcid: 0000-0002-1016-862X
-description: "Ben is interested in understanding the role that protein dynamics play in the regulation of biological function. As an undergraduate in Elizabeth Sattely’s lab at Stanford University, he investigated bacterial degradation of the polymer lignin. He is currently a graduate student in James Fraser’s lab at UCSF. His first project involved developing methods for validation of atomic structures solved by high-resolution electron cryomicroscopy. Currently, he is investigating the mechanisms of proteins involved in the allergic immune response to chitin. Outside of research, he is obsessed with finding the perfect cup of coffee, a quest that has included learning to roast his own coffee beans.
-
-Ben is supported by an [ARCS Foundation Scholar Award](https://www.arcsfoundation.org/) and a [UCSF Discovery Fellowship](http://support.ucsf.edu/discoveryfellows)"
+twitter: xxxx
+linkedin: xxxx
+github: xxxx
+orcid: 0000-xxxx-xxxx-xxxx
+description: "xxxx"
 ---
