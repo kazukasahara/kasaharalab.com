@@ -1,4 +1,4 @@
-### Alumni
+## Alumni
 {% assign sorted = (site.alumni | sort: "enddate") | reverse %}
 {% for member in sorted %}
 <hr>
@@ -44,7 +44,7 @@ Subsequently: {{member.subsequent}} <br>
 
 
 <br>
-## Visitors
+### Visitors
 {% assign visitor_sorted = (site.visitors | sort: "enddate") | reverse %}
 {% for visitor in visitor_sorted %}
 <hr>
