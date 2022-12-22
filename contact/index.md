@@ -4,7 +4,7 @@ layout: default
 group: contact
 ---
 
-# Contact the Kasahara Lab
+# Contact the lab
 
 
 <div class="row">
@@ -22,7 +22,7 @@ group: contact
 
 </div>
 
-# Directions to the Kasahara Lab
+# Directions to the lab
 
 <div class="row">
 
