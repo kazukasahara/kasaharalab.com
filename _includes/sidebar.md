@@ -3,7 +3,7 @@ title: Contact
 ---
 
 
-### Contact the Kasahara Lab
+### Contact the lab
 
 Kazuyuki Kasahara, M.D., Ph.D.
 Assistant Professor of Metabolic, Nutrition, Microbiome Medicine
