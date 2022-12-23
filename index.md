@@ -6,6 +6,8 @@ group: home
 
 # Welcome to the Kasahara Lab!
 {: .display-5}
+<bt>
+### Metabolic, Nutrition and Microbiome Medicine Laboratory  
 <br>
 We are part of the [Nutrition, Metabolism and Health Programme](https://www.ntu.edu.sg/medicine/research/research-programmes/nutrition-metabolism-health) and the [Microbiome Medicine Programme](https://www.ntu.edu.sg/medicine/research/research-programmes/microbiome-medicine) at the [Lee Kong Chian School of Medicine](https://www.ntu.edu.sg/medicine), [Nanyang Technological University](https://www.ntu.edu.sg). 
 {: .welcomefont}
