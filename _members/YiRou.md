@@ -2,7 +2,7 @@
 name: Yi Rou Bah
 startdate: 2023-02-27
 enddate: YYYY-MM-DD
-image: /static/img/members/YiRou.pdf
+image: /static/img/members/YiRou.jpg
 position: PhD Student
 #current:
 email: yirou001 (at) e.ntu.edu.sg
