@@ -2,7 +2,7 @@
 name: Vanessa Lim Zi Yun
 startdate: 2023-03-06
 enddate: YYYY-MM-DD
-image: /static/img/members/Vanessa.png
+image: /static/img/members/Vanessa.jpg
 position: PhD Student
 #current:
 email: VA0002UN (at) e.ntu.edu.sg
