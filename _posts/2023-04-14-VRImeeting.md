@@ -4,7 +4,7 @@ author: Kazuyuki Kasahara
 layout: post
 group: news
 ---
- <img src="/static/img/news/YiRouVRI.jpeg">
+ <img src="/static/img/news/YiRou_VRI.jpeg">
 
 We joined the VRI med-term meeting, led by Assoc Prof Rinkoo Dalan and 
 Asst Prof Christine Cheung. There are 2 thrusts; Thrust 1; 
