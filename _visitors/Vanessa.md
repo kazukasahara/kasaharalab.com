@@ -1,7 +1,7 @@
 ---
 name: Vanessa Lim Zi Yun
 startdate: 2023-03-06
-
+enddate: 2023-04-30
 image: /static/img/members/Vanessa.jpg
 position: PhD Rotation
 subsequent: PhD Student @ Prof Maurice van Steensel lab
