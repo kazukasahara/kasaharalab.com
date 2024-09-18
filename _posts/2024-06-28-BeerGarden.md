@@ -1,6 +1,6 @@
 ---
 title: Beer Garden
-author: KK
+author: 
 layout: post
 group: news
 ---
