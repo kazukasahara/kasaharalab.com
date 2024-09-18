@@ -3,7 +3,7 @@ name: Frisma Eri Saputri
 startdate: 2024-07
 enddate: YYYY-MM-DD
 image: /static/img/members/Frisma.jpg
-position: Research Assistant
+position: Research Associate
 #current:
 #pronouns:
 email: frismaeri.saputri (at) ntu.edu.sg
