@@ -1,6 +1,6 @@
 ---
 title: End of Year Gathering/Christmas Celebration
-author: Kazuyuki Kasahara
+author: 
 layout: post
 group: news
 ---

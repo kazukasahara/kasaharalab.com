@@ -1,6 +1,6 @@
 ---
 title: Vascular Research Initiative Mid-Term Meeting
-author: Kazuyuki Kasahara
+author: 
 layout: post
 group: news
 ---

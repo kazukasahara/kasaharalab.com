@@ -1,6 +1,6 @@
 ---
 title: Welcome Dayang!
-author: Kazuyuki Kasahara
+author: 
 layout: post
 group: news
 ---

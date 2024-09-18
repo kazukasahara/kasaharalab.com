@@ -1,6 +1,6 @@
 ---
 title: YiRou joins the lab!
-author: Kazuyuki Kasahara
+author: 
 layout: post
 group: news
 ---

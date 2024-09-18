@@ -1,6 +1,6 @@
 ---
 title: Prof Emad El-Omar visited LKCMedicine
-author: Kazuyuki Kasahara
+author: 
 layout: post
 group: news
 ---

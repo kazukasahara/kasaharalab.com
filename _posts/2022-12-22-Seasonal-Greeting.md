@@ -1,6 +1,6 @@
 ---
 title: Seasonal Greeting, Dec 2022
-author: Kazuyuki Kasahara
+author: 
 layout: post
 group: news
 ---

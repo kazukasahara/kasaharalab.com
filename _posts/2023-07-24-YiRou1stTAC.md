@@ -1,6 +1,6 @@
 ---
 title: YiRou's 1st TAC
-author: Kazuyuki Kasahara
+author: 
 layout: post
 group: news
 ---

@@ -1,6 +1,6 @@
 ---
 title: Niqesha and Yujin completed research attachment
-author: Kazuyuki Kasahara
+author: 
 layout: post
 group: news
 ---

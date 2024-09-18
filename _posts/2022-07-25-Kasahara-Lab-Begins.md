@@ -1,6 +1,6 @@
 ---
 title: The Kasahara lab begins!
-author: Kazuyuki Kasahara
+author: 
 layout: post
 group: news
 ---

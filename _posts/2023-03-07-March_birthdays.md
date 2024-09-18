@@ -1,6 +1,6 @@
 ---
 title: March Birthdays!
-author: Kazuyuki Kasahara
+author: 
 layout: post
 group: news
 ---
