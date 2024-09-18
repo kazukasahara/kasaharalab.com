@@ -1,7 +1,7 @@
 ---
 name: Jamie Quek
 startdate: 2023-08-21
-enddate: YYYY-MM-DD
+enddate: 2024-05-31
 image: /static/img/members/Jamie.jpg
 position: URECA Student
 #current:
