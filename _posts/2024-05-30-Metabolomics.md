@@ -1,6 +1,6 @@
 ---
 title: Metabolomics in Human Health
-author: Kazuyuki Kasahara
+author: 
 layout: post
 group: news
 ---

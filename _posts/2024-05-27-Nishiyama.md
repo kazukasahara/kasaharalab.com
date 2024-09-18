@@ -1,6 +1,6 @@
 ---
 title: Visit of Dr Nishiyama to Singapore
-author: Kazuyuki Kasahara
+author: 
 layout: post
 group: news
 ---

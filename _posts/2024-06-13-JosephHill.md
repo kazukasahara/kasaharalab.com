@@ -1,6 +1,6 @@
 ---
 title: Visit of Prof Joseph Hill to Singapore
-author: Kazuyuki Kasahara
+author: 
 layout: post
 group: news
 ---
